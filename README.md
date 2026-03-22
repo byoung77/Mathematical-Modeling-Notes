@@ -43,12 +43,6 @@ The goal is to provide students with:
 
 ---
 
-## 🔗 Access
-
-📄 [View Full Text (PDF)](https://young.mathcs.wilkes.edu/texts/MTH114_Lecture_Notes.pdf)
-
----
-
 ## 🧠 Design Philosophy
 
 - Prioritize clarity over excessive formalism  
