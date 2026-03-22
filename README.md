@@ -1,6 +1,6 @@
 # Mathematical Modeling Notes
 
-A comprehensive set of lecture notes developed as a course text for undergraduate students, covering core topics in mathematical modeling, calculus, linear algebra, differential equations, and probability.
+A comprehensive, classroom-tested set of notes developed as a course text for undergraduate students, covering core topics in mathematical modeling, calculus, linear algebra, differential equations, and probability.
 
 These notes emphasize conceptual understanding, mathematical structure, and connections between theory and real-world systems.
 
